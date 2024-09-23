@@ -1,0 +1,28 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/.generated/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/app/gradle/
+android/app/local.properties
+*.iml
+*.ipr
+*.iws
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Mac OS X
+.DS_Store
